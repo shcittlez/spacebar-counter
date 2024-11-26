@@ -48,5 +48,6 @@ This project helped me master:
 To use this spacebar counter, clone this repository and run the `global_spacebar_counter.py` file, or build an executable using `PyInstaller`:
 
 ```bash
-pyinstaller --onefile --windowed --icon="your_icon.ico" global_spacebar_counter.py
+pyinstaller --onefile --windowed global_spacebar_counter.py
+
 
